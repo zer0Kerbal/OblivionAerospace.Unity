@@ -1,0 +1,2 @@
+Error: Texture file does not exist:  (file: C:\Users\Olai\Desktop\Mod) [ (line 0)]
+Warning: Invalid texture in material ShieldMat (file: 'C:\KSP_DEV\Workspace-Parts\OblivionAerospace\Parts\ConicalHeatShield\ConicalHeatShield.DAE') []
